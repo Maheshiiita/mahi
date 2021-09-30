@@ -1,4 +1,4 @@
-# mahi
+# mahesh
 ### Hiii there 👋,I am mahesh Kumar
 I am Pre-final student of IIITA 
 
